@@ -20,7 +20,7 @@ In addition to SQL analysis, this project incorporates Tableau visualizations th
 
 - **Membership Days**: Provides insights into membership duration based on subscription plans.
 
-To explore the Tableau visualizations, visit the following link: https://public.tableau.com/views/NetflixUserbaseInsightsTrendsRevenueAnalysis/SubscriptionDistribution?:language=en-US&:display_count=n&:origin=viz_share_link
+To explore the Tableau visualizations, visit the following link: https://public.tableau.com/views/NetflixUserbaseInsightsTrendsRevenueAnalysis/NetflixUserbaseDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ To use this project for your own data analysis, follow these steps:
 3. **Execute SQL Queries**: Open and execute the SQL queries provided in `NetflixUserbase.sql` using a PostgreSQL client like pgAdmin.
 
 4. **Explore Results**: Explore the interactive visualizations in Tableau to gain insights from the Netflix Userbase data. Here is the link to the Tableau visualization again.
-   https://public.tableau.com/views/NetflixUserbaseInsightsTrendsRevenueAnalysis/SubscriptionDistribution?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/NetflixUserbaseInsightsTrendsRevenueAnalysis/NetflixUserbaseDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Contributing
 
