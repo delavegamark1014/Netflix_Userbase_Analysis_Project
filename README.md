@@ -1,4 +1,4 @@
-# Netflix Userbase Data Analysis Project
+# Netflix Userbase Analysis Project
 
 ## Introduction
 
