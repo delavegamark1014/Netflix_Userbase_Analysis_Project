@@ -28,7 +28,7 @@ To use this project for your own data analysis, follow these steps:
 
 1. **Install PostgreSQL**: Make sure you have PostgreSQL and pgAdmin4 installed on your system.
 
-2. **Create Database and Load Data**: Create a database and load the Netflix userbase data into the `Userbase` table.
+2. **Create Database and Load Data**: Create a database and load the userbase data into the `Netflix_Userbase` table.
 
 3. **Execute SQL Queries**: Open and execute the SQL queries provided in `NetflixUserbase.sql` using a PostgreSQL client like pgAdmin.
 
