@@ -6,7 +6,7 @@ Welcome to the Netflix Userbase Data Analysis Project repository! This project f
 
 ## Database Schema
 
-The dataset is stored in a PostgreSQL database with a "Userbase" table. Key columns include `user_id`, `gender`, `subscription_type`, `device`, `join_date`, `last_payment_date`, `age`, and `country`.
+The dataset is stored in a PostgreSQL database with a `Netflix_Userbase` table. Key columns include `user_id`, `gender`, `subscription_type`, `device`, `join_date`, `last_payment_date`, `age`, and `country`.
 
 ## Tableau Visualizations
 
